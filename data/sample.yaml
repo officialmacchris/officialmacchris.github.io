@@ -1,0 +1,96 @@
+
+name:
+    first: Miracle
+    last: Anyanwu
+
+
+whois:
+    - Python Programmer
+    - Flutter Developer
+    - Web Developer
+    
+
+
+about:
+    name: Miracle Anyanwu
+    address: "Miracle Avenue, Ifite-Awka, Awka South LGA, Anambra State"
+    phone: "+234 7034323113"
+    email: official_macchris@protonmail.com
+    github: github.com/officialmacchris
+    languages: "English, Spanish, Nigerian Pidgin, Igbo"
+
+
+skills:
+    coding:
+        "Python, Flask": 4
+        "JavaScript, Node.js": 2
+        
+        
+    tools:
+        "MongoDB, PostgreSQL": 2
+        "Amazon services": 3
+        "Azure": 3
+
+
+experience:
+    "Dec 2019 ~ Present":
+        title: Python Programmer 
+        company: Freelance Programmer
+        descr: > 
+            Freelance python programmer.<br />
+            Wrote the logic behind the smile cook app - a recipe sharing app - as well as other programs currently hosted in my github repository
+
+    "May 2018 - Dec 2018":
+        title: Network Engineering Intern
+        company: MICTU, Nnamdi Azikiwe University, Awka, Anambra State
+        descr: >
+            Involved in the full setup and maintainance of computer network in the university.<br /> Offered support services to users of the network infrastructure.
+
+    "Sep 2017 - Dec 2017":
+        title: Software Developer Intern
+        company: Chingu
+        descr: >
+            Worked on multiple projects as a team in order to hone my skills in collaborative coding.
+
+
+education:
+    Nnamdi Azikiwe University, Awka, Anambra State:
+        - Electronic and Computer Engineering, BSc.
+    Federal Government College, Port Harcourt:
+        - WASSCE
+
+
+interests:
+    coding:
+        - Python Scripting and Automation
+        - Web Development
+        - Flutter Development
+        - Linux & Windows OS
+    hardware:
+        - Arduino 
+    misc:
+        - Swimming
+        - Reading
+
+
+theme:
+    colors:
+        pri: "#2ECCFA"
+        sec: "#A4A4A4"
+
+    icons:
+        about: fa fa-user
+        skills: fa fa-bolt
+        skill: fa fa-cog
+        experience: fa fa-gavel
+        education: fa fa-graduation-cap
+        interests: fa fa-thumbs-up
+        level: fa fa-star
+        details:
+            - fa fa-comment
+            - fa fa-calendar
+            - fa fa-map-marker
+            - fa fa-phone
+            - fa fa-envelope
+            - fa fa-github
+            - fa fa-globe
